@@ -31,11 +31,11 @@ I love open source software. I'm not a big fan of enormous libraries, but I do a
   <a href="https://pratit.tech/latest"><img width="300" align='right' src="https://pratit.tech/latest.png?raw=true"></a>
 </p>
 
-### My Digital Garden 🌱
+<!-- ### My Digital Garden 🌱
 
 I write regular blog posts, most of which you will find on my personal website [pratit.tech](https://pratit.tech) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
 
-I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
+I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**.  -->
 
 [Latest Post 👉](https://www.pratit.tech/blog.html)
 
