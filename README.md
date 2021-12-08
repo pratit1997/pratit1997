@@ -39,12 +39,12 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 [Latest Post 👉](https://www.pratit.tech/blog.html)
 
-<details>
+<!-- <details>
  <summary><strong>other favorite posts</strong></summary>
  <a href="https://pratit.tech/blog/eight-years-cat/"><img width="400" src="https://images.pratit.tech/eight-years-cat-og.png?raw=true"></a>
  <a href="https://pratit.tech/blog/what-are-github-actions/"><img width="400" src="https://images.pratit.tech/what-are-github-actions-og.png?raw=true"></a>
  
-</details>
+</details> -->
 
 💌 Sign up for my [newsletter](https://www.pratit.tech/blog.html)
 
