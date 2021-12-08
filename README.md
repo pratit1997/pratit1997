@@ -46,7 +46,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
  
 </details>
 
-💌 Sign up for my [newsletter](https://pratit.tech/newsletter/)
+💌 Sign up for my [newsletter](https://www.pratit.tech/blog.html)
 
 ---
 
