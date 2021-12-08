@@ -1,7 +1,7 @@
 # [![Pratit Patel header](https://www.pratit.tech/assets/img/profile.JPG)](https://www.pratit.tech/)
 
 <p>
-  <a href="https://media-exp1.licdn.com/dms/image/C5603AQFnlIjdY33dEg/profile-displayphoto-shrink_200_200/0/1637445001216?e=1644451200&v=beta&t=LkQ9IhkOWgkpMT8i7x1Hrwsha82kGaQh7QjsrccGdFk"><img width="150" align='right' src="https://github.com/pratit1997/pratit1997/blob/main/icons/eyes.gif"></a>
+  <a href="https://media-exp1.licdn.com/dms/image/C5603AQFnlIjdY33dEg/profile-displayphoto-shrink_200_200/0/1637445001216?e=1644451200&v=beta&t=LkQ9IhkOWgkpMT8i7x1Hrwsha82kGaQh7QjsrccGdFk"><img width="120" align='right' src="https://github.com/pratit1997/pratit1997/blob/main/icons/eyes.gif"></a>
 </p>
 
 <p align='center'>
