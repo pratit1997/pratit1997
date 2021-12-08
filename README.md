@@ -117,9 +117,9 @@ Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investo
 	<a href="https://raw.githubusercontent.com/WaylonWalker/waylonwalker/main/follower.svg">
 		<img src="follower.svg" width="800" height="140">
 	</a>
-</div> --> -->
+</div> --> 
 
 <!-- ## Stargazers
 
 [![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/waylonwalker/waylonwalker)](https://github.com/waylonwalker/waylonwalker/stargazers)
- --> --> -->
+ <!-- -->
