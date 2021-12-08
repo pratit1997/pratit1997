@@ -6,8 +6,8 @@
 
 <p align='center'>
 <a href="https://www.pratit.tech/"><img height="70" src="https://github.com/pratit1997/pratit1997/blob/main/icons/me_icon.gif"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/pratit1997/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/pratit-patel/#"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/pratit1997/"><img height="30" src="https://github.com/pratit1997/pratit1997/blob/main/icons/insta_icon.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/pratit-patel/#"><img height="30" src="https://github.com/pratit1997/pratit1997/blob/main/icons/linkein_icon.gif"></a>&nbsp;&nbsp;
 </p>
 
 
