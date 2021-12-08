@@ -13,7 +13,7 @@
 
 Hey there 👋,
 
-I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com).  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtMQO), give me a shout out [@_waylonwalker](https://twitter.com/_waylonwalker), give some ♥ on [DEV.to/waylonwalker](https://dev.to/waylonwalker), or sign up for my newsletter  at waylonwalker.com/newsletter  I would love to see you join.
+I'm a passionate developer who likes fixing problems and loves to code. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.  You can see a full list of what I am up to on [pratit.tech](pratit.tech) and feel free to use my code anywhere you want .
 
   ---
  
@@ -28,25 +28,25 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
  ---
 
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+  <a href="https://pratit.tech/latest"><img width="300" align='right' src="https://pratit.tech/latest.png?raw=true"></a>
 </p>
 
 ### My Digital Garden 🌱
 
-I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
+I write regular blog posts, most of which you will find on my personal website [pratit.tech](https://pratit.tech) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
 
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
 
-[Latest Post 👉](https://waylonwalker.com/latest)
+[Latest Post 👉](https://pratit.tech/latest)
 
 <details>
  <summary><strong>other favorite posts</strong></summary>
- <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://images.waylonwalker.com/eight-years-cat-og.png?raw=true"></a>
- <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://images.waylonwalker.com/what-are-github-actions-og.png?raw=true"></a>
+ <a href="https://pratit.tech/blog/eight-years-cat/"><img width="400" src="https://images.pratit.tech/eight-years-cat-og.png?raw=true"></a>
+ <a href="https://pratit.tech/blog/what-are-github-actions/"><img width="400" src="https://images.pratit.tech/what-are-github-actions-og.png?raw=true"></a>
  
 </details>
 
-💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
+💌 Sign up for my [newsletter](https://pratit.tech/newsletter/)
 
 ---
 
