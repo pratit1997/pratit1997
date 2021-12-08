@@ -47,7 +47,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
 </details> -->
 
 💌 Sign up for my [newsletter](https://www.pratit.tech/blog.html)
-
+<!-- 
 ---
 <!-- 
 ### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
@@ -111,15 +111,15 @@ Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investo
 -->
 <p align='center'>
 <!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
- <p/>
+ <!-- <p/>
 <div align="center">
 	<br>
 	<a href="https://raw.githubusercontent.com/WaylonWalker/waylonwalker/main/follower.svg">
 		<img src="follower.svg" width="800" height="140">
 	</a>
-</div> -->
+</div> --> -->
 
 ## Stargazers
 
 [![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/waylonwalker/waylonwalker)](https://github.com/waylonwalker/waylonwalker/stargazers)
- -->
+ --> -->
