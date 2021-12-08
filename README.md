@@ -4,7 +4,7 @@
   <a href="https://media-exp1.licdn.com/dms/image/C5603AQFnlIjdY33dEg/profile-displayphoto-shrink_200_200/0/1637445001216?e=1644451200&v=beta&t=LkQ9IhkOWgkpMT8i7x1Hrwsha82kGaQh7QjsrccGdFk"><img width="150" align='right' src="https://media-exp1.licdn.com/dms/image/C5603AQFnlIjdY33dEg/profile-displayphoto-shrink_200_200/0/1637445001216?e=1644451200&v=beta&t=LkQ9IhkOWgkpMT8i7x1Hrwsha82kGaQh7QjsrccGdFk"></a>
 </p>
 
-<p align='center'>
+<p align='left'>
 <a href="https://www.pratit.tech/"><img height="70" src="https://github.com/pratit1997/pratit1997/blob/main/icons/me_icon.gif"></a>&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/pratit1997/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
