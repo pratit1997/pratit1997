@@ -27,9 +27,9 @@ I love open source software. I'm not a big fan of enormous libraries, but I do a
 
  ---
 
-<p>
+<!-- <p>
   <a href="https://pratit.tech/latest"><img width="300" align='right' src="https://pratit.tech/latest.png?raw=true"></a>
-</p>
+</p> -->
 
 <!-- ### My Digital Garden 🌱
 
