@@ -37,7 +37,7 @@ I write regular blog posts, most of which you will find on my personal website [
 
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**.  -->
 
-[Latest Post 👉](https://www.pratit.tech/blog.html)
+<!-- [Latest Post 👉](https://www.pratit.tech/blog.html) -->
 
 <!-- <details>
  <summary><strong>other favorite posts</strong></summary>
@@ -45,8 +45,8 @@ I write about things I am familiar with, things that trip up folks that I mentor
  <a href="https://pratit.tech/blog/what-are-github-actions/"><img width="400" src="https://images.pratit.tech/what-are-github-actions-og.png?raw=true"></a>
  
 </details> -->
-
-💌 Sign up for my [newsletter](https://www.pratit.tech/blog.html)
+<!-- 
+💌 Sign up for my [newsletter](https://www.pratit.tech/blog.html) -->
 <!-- 
 ---
 <!-- 
