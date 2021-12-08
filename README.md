@@ -1,7 +1,7 @@
 # [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
 
 <p>
-  <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
+  <a href="https://media-exp1.licdn.com/dms/image/C5603AQFnlIjdY33dEg/profile-displayphoto-shrink_200_200/0/1637445001216?e=1644451200&v=beta&t=LkQ9IhkOWgkpMT8i7x1Hrwsha82kGaQh7QjsrccGdFk"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
 </p>
 
 <p align='center'>
