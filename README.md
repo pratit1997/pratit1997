@@ -23,7 +23,7 @@ I'm a passionate developer who likes fixing problems and loves to code. I have a
  
 ### Boy Scout Rule
 
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
+I love open source software. I'm not a big fan of enormous libraries, but I do appreciate the boyscout rule. I contribute to things when I come across problems that I believe others may face. This might be something that someone who is deep in the library overlooks. I'd want to see a nice onboarding readme with examples..
 
  ---
 
@@ -37,7 +37,7 @@ I write regular blog posts, most of which you will find on my personal website [
 
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
 
-[Latest Post 👉](https://pratit.tech/latest)
+[Latest Post 👉](https://www.pratit.tech/blog.html)
 
 <details>
  <summary><strong>other favorite posts</strong></summary>
