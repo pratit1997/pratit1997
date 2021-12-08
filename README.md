@@ -107,7 +107,7 @@ software engineer at @soonastudios. career switcher. vue + rails. tweeting about
 
 Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investor | Tweets are my own opinions
 
-<h2></h2>
+<!-- <h2></h2>
 -->
 <p align='center'>
 <!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
@@ -117,7 +117,7 @@ Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investo
 	<a href="https://raw.githubusercontent.com/WaylonWalker/waylonwalker/main/follower.svg">
 		<img src="follower.svg" width="800" height="140">
 	</a>
-</div>
+</div> -->
 
 ## Stargazers
 
