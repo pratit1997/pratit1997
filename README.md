@@ -49,7 +49,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
 💌 Sign up for my [newsletter](https://www.pratit.tech/blog.html)
 
 ---
-
+<!-- 
 ### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
 
 
@@ -122,4 +122,4 @@ Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investo
 ## Stargazers
 
 [![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/waylonwalker/waylonwalker)](https://github.com/waylonwalker/waylonwalker/stargazers)
-
+ -->
