@@ -1,8 +1,8 @@
 # [![Pratit Patel header](https://www.pratit.tech/assets/img/profile.JPG)](https://www.pratit.tech/)
 
-<p>
+<!-- <p>
   <a href="https://github.com/pratit1997"><img width="50" align='right' src="https://github.com/pratit1997/pratit1997/blob/main/icons/eyes.gif"></a>
-</p>
+</p> -->
 
 <p align='center'>
 <a href="https://www.pratit.tech/"><img height="40" src="https://github.com/pratit1997/pratit1997/blob/main/icons/me_icon.gif"></a>&nbsp;&nbsp;
