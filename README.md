@@ -1,4 +1,4 @@
-# [![Pratit Patel header](https://github.com/pratit1997/pratit1997/blob/main/icons/geeks hack.png)](https://www.pratit.tech/)
+# [![Pratit Patel header](https://github.com/pratit1997/pratit1997/blob/main/icons/geekshack.png)](https://www.pratit.tech/)
 
 <p>
   <a href="https://github.com/pratit1997"><img width="50" align='right' src="https://github.com/pratit1997/pratit1997/blob/main/icons/eyes.gif"></a>
