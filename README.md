@@ -1,7 +1,7 @@
 # [![Pratit Patel header](https://www.pratit.tech/assets/img/profile.JPG)](https://www.pratit.tech/)
 
 <p>
-  <a href="https://github.com/pratit1997"><img width="120" align='right' src="https://github.com/pratit1997/pratit1997/blob/main/icons/eyes.gif"></a>
+  <a href="https://github.com/pratit1997"><img width="50" align='right' src="https://github.com/pratit1997/pratit1997/blob/main/icons/eyes.gif"></a>
 </p>
 
 <p align='center'>
