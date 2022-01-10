@@ -18,6 +18,9 @@ I'm a passionate developer who likes fixing problems and loves to code. I have a
 ### Live Websites
 <p><h1> portfolio </h1>  <a href="https://pratit.tech/">https://pratit.tech/</a></p>
 
+<p><h1> Covid-19 React App </h1>  <a href="https://react-web-app-three.vercel.app/#home">https://react-web-app-three.vercel.app</a></p>
+
+
 
 ---
  
