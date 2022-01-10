@@ -16,7 +16,7 @@ Hey there 👋,
 I'm a passionate developer who likes fixing problems and loves to code. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.  You can see a full list of what I am up to on [pratit.tech](pratit.tech) and feel free to use my code anywhere you want .
 ---
 ### Live Websites
-<h1> portfolio </h1>  <a href="https://pratit.tech/">https://pratit.tech/</a>
+<p><h1> portfolio </h1>  <a href="https://pratit.tech/">https://pratit.tech/</a></p>
 ---
 
 ---
