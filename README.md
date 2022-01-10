@@ -22,7 +22,7 @@ I'm a passionate developer who likes fixing problems and loves to code. I have a
 </p>
 
 ### Live Websites
-<h1> portfolio </h1>  <a href="https://pratit.tech/"></a>
+<h1> portfolio </h1>  <a href="https://pratit.tech/">https://pratit.tech/</a>
 
 
 ### Boy Scout Rule
