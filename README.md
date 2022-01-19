@@ -33,7 +33,7 @@ I'm a passionate developer who likes fixing problems and loves to code. I have a
 
 ### Boy Scout Rule
 
-I love open source software. I'm not a big fan of enormous libraries, but I do appreciate the boyscout rule. I contribute to things when I come across problems that I believe others may face. This might be something that someone who is deep in the library overlooks. I'd want to see a nice onboarding readme with examples..
+I love open source software. I'm not a big fan of enormous libraries, but I do appreciate the boyscout rule. I contribute to things when I come across problems that I believe others may face. This might be something that someone who is deep in the library overlooks.
 
  ---
 
